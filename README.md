@@ -23,9 +23,11 @@ ___Negrito e Italico___
  2. Lista 2
     1. Sublista
 
-    [Texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
+    [Texto da imagem](https://img.freepik.com/fotos-gratis/retrato-de-um-leao-gerado-por-ia_268835-4278.jpg)
 
-    ![texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
+
+    ![texto da imagem](https://img.freepik.com/fotos-gratis/retrato-de-um-leao-gerado-por-ia_268835-4278.jpg)
+
 
 `system.out.println();`
 
