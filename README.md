@@ -10,7 +10,9 @@
 ###### Titulo 6
 
 *Italico* ou _Italico_
+
 **Negrito** ou __Negrito__
+
 ___Negrito e Italico___
 
 - Lista 1
@@ -21,8 +23,22 @@ ___Negrito e Italico___
  2. Lista 2
     1. Sublista
 
-    links
-    
+    [Texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
+
+    ![texto da imagem](https://img.freepik.com/fotos-premium/por-do-sol-no-mar_69709-957.jpg)
+
+`system.out.println();`
+
+```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println();```
+
+> Texto de Citações
+-----------------------------------
+
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- |
+| Texto  1    | Texto 2     |
+| Texto 3     | Texto 4     |
+
 
 
 <!--
