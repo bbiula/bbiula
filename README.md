@@ -1,60 +1,49 @@
-## Hi there 👋
 
 <!-- Cabeçalhos -->
 
-# Sejam Bem-Vindos ao Meu Mundo!
-
-![Hi](https://giphy.com/gifs/3ogwFGEHrVxusDbDjO)
+## _Sejam Bem-Vindos! Eu sou a Fabiola, mas pode me chamar de Biula._ 👋
 
 
+<p align="center"> 
+![Hello](https://media.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif)
+</p>
+
+
+- 🎓 Sistema de Informação 8/8 - Cursando
+- 💻 Migrando carreira para Dev
+- 🔭 Atualmente Estagiando na aréa.
+- 🌱 Aprendendo, contribuindo e crescendo...
+- 😄 Pronome: Ela/Dela
+- 💡 Jesus é o Caminho a Verdade e a Vida - João 14:6
+- 📧 Franciscofabiola64@gmail.com
+- 📱 (24)99824-6823
 
 
 
-*Italico* ou _Italico_
-
-**Negrito** ou __Negrito__
-
-___Negrito e Italico___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
- 1. Lista 1
- 2. Lista 2
-    1. Sublista
-
-    [Texto da imagem](https://img.freepik.com/fotos-gratis/retrato-de-um-leao-gerado-por-ia_268835-4278.jpg)
-
-
-    ![texto da imagem](https://img.freepik.com/fotos-gratis/retrato-de-um-leao-gerado-por-ia_268835-4278.jpg)
-
-
-`system.out.println();`
-
-```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println();```
-
-> Texto de Citações
+###  Cursos e formações
 -----------------------------------
 
-| Cabeçalho 1 | Cabeçalho 2 |
+| Curso       | Certificado |
 | ----------- | ----------- |
-| Texto  1    | Texto 2     |
-| Texto 3     | Texto 4     |
+| Excel Avançado     | Cursando  |
+| Java completo 2023 | Cursando  |
+| Formação Github    | Cursando  |
+| Microsoft Azure AI | Cursando  | 
+|Formação Power BI Analyst | Cursando |
+
+
+## Minhas Tecnologias 
+
+<p align="center">
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60px">>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60px">>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60px">
+ </p>
+ 
 
 
 
-<!--
-**bbiula/bbiula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Fabiola Francisco Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiula&theme=midnight-purple&show_icons=true)
 
-Here are some ideas to get you started:
+ ![Fabiola Francisco Neves GitHub Repo Card](https://github-readme-stats.vercel.app/api?username=bbiula&theme=midnight-purple&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
