@@ -4,9 +4,8 @@
 ## _Sejam Bem-Vindos! Eu sou a Fabiola, mas pode me chamar de Biula._ 👋
 
 
-<p align="center"> 
 ![Hello](https://media.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif)
-</p>
+
 
 
 - 🎓 Sistema de Informação 8/8 - Cursando
@@ -34,11 +33,11 @@
 
 ## Minhas Tecnologias 
 
-<p align="center">
+
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60px">>
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60px">>
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60px">
- </p>
+
  
 
 
