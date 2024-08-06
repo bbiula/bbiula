@@ -43,6 +43,5 @@
 
 
  ![Fabiola Francisco Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiula&theme=midnight-purple&show_icons=true)
-
- ![Fabiola Francisco Neves GitHub Repo Card](https://github-readme-stats.vercel.app/api?username=bbiula&theme=midnight-purple&show_icons=true)
+ ![Fabiola Francisco Neves GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiula&layout=compact&langs_count=7&theme=midnight-purple)
 
