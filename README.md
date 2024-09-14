@@ -35,8 +35,7 @@
 ## Minhas Tecnologias 
 
 
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60px">>
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60px">>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60px">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px"/>
@@ -44,9 +43,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="60px"/>
 
  ![Fabiola Francisco Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=bbiula&theme=midnight-purple&show_icons=true)
  ![Fabiola Francisco Neves GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=bbiula&layout=compact&langs_count=7&theme=midnight-purple)
