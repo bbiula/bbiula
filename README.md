@@ -10,7 +10,7 @@
 
 - 🎓 Sistema de Informação 8/8 - Cursando
 - 💻 Migrando carreira para Dev
-- 🔭 Atualmente Estagiando na aréa.
+- 🔭 Atualmente Técnico Suporte Usuário 2N l.
 - 🌱 Aprendendo, contribuindo e crescendo...
 - 😄 Pronome: Ela/Dela
 - 💡 Jesus é o Caminho a Verdade e a Vida - João 14:6
